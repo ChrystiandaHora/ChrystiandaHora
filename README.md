@@ -9,7 +9,7 @@
 </div>
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ChrystiandaHora&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ChrystiandaHora&theme=react-dark&hide_border=true&area=true)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21B5ED&height=120&section=footer"/>
