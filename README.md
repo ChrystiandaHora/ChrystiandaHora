@@ -1,6 +1,5 @@
 # 💫 About Me:
-Olá! Meu nome é Chrystian e tenho 20 anos. Sou apaixonado por tecnologia e comecei a programar há três anos, quando entrei na faculdade. Desde então, tenho trabalhado em alguns projetos web e desenvolvido minhas habilidades como programador.
-
+Olá! Meu nome é Chrystian e sou um entusiasta de tecnologia apaixonado por desenvolvimento web e programação. Com uma jornada de três anos desde que iniciei minha jornada na faculdade, mergulhei de cabeça no mundo da programação e do desenvolvimento, buscando constantemente aprimorar minhas habilidades e conhecimentos.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dahooraaa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chrystian-da-hora) 
