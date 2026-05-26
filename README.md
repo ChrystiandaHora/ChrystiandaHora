@@ -1,38 +1,47 @@
-# 👋 Olá, eu sou o Chrystian da Hora
+# Olá, eu sou o Chrystian! 👋
 
-Atualmente atuo como **Software Engineer** e venho aprofundando estudos em **Inteligência Artificial** e **sistemas distribuídos**.
+### Desenvolvedor Full Stack | Python & Vue.js
 
-## 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chrystian-da-hora)
+---
 
-## 🧩 O que eu faço bem
-* Desenvolvimento de **APIs REST** e backends com **Python/Django**
-* Frontend com **Vue.js** e **TypeScript**, com foco em usabilidade e performance
-* **Modelagem de dados**, otimização de queries e integração com bancos **SQL**
-* Integração com serviços externos e automação de processos
-* Documentação técnica e modelagem com **UML**
-* Boas práticas de versionamento e colaboração em equipe
+## 📖 Sobre Mim
+
+Sou desenvolvedor Full Stack com experiência prática em projetos complexos nas áreas de **saúde, gestão pública e telecomunicações**, atuando na construção de sistemas web escaláveis, APIs REST e automação de processos que exigem confiabilidade, performance e manutenção a longo prazo. 
+
+Tenho forte atuação em soluções orientadas a dados, sempre buscando alinhar arquitetura, qualidade de código e experiência do usuário. Atualmente, aprofundo meus estudos em **Inteligência Artificial** e **sistemas distribuídos**, com interesse em atuar em times que valorizam excelência técnica, colaboração e impacto real.
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-0B3B2E?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Bancos de dados
+### 🧠 Backend & Banco de Dados
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### DevOps e Qualidade
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🎨 Frontend & Design
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### ⚙️ Infraestrutura, DevOps & Ferramentas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estatísticas em Tempo Real
+*(Atualizado automaticamente com base no código dos meus repositórios)*
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChrystiandaHora&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChrystiandaHora&layout=compact&theme=dark&hide_langs=html,css" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_AQUI)
